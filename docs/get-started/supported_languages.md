@@ -54,3 +54,4 @@ You can write your tests in Typescript as well. To reference Jest globals in you
 ```bash
 npm i --save-dev @types/jest
 ```
+add golang also
